@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				jaida: {
+					purple: '#5D4DB1',
+					lightPurple: '#9087f5',
+					coral: '#FF7E65',
+					teal: '#75E2E6',
+					bg: '#F8F9FC'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
